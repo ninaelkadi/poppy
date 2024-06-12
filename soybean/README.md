@@ -39,9 +39,8 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
        stroke-width="0">
 {paragraph 3}
 
-Soy’s reputation began to change in the 3rd century BCE when a fermented soy product known as shi became popular in China.7 Soy was also mentioned in the Fan Shengzhi shu, a Han Dynstasy agricultural text from 1st century BCE.8 Shengzhi wrote detailed instructions for how to plant and cultivate soybeans and even predicted what yields would be. Even then, most soybeans were used as animal feed.9 Soybeans were also mentioned in Li Shizen’s medical manual Bencao gangmu, where he described that “virtually every part of the plant was used as medicine.”10 The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”11 Centuries later, the soybean was taxonomized by Carl Linnaeus as ‘glycine,’ meaning sweet, and ‘max’ due to its large nitrogen-fixing nodules.12   
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chinese_Materia_Dietetica%2C_Ming%3B_Fermented_sauce_%28jiang%29_Wellcome_L0039386.jpg" 
+Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a fermented soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a Han dynasty agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and cultivate soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chinese_Materia_Dietetica%2C_Ming%3B_Fermented_sauce_%28jiang%29_Wellcome_L0039386.jpg" 
        title="Chinese Materia Dietetica, Ming: Fermented sauce (jiang)"
        description="AnonymousUnknown author, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
        fit="contain">
@@ -120,7 +119,9 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^6]: Pablo Lapegna and Johana Kunin, “The Impact of Soybeans in Argentina and Beyond: A Double-Edged Sword?,” ReVista. https://revista.drclas.harvard.edu/the-impact-of-soybeans-in-argentina-and-beyond-a-double-edged-sword/
 [^7]: Brian Lander and Thomas David DuBois, “A History of Soy in China: From Weedy Bean to Global Commodity,” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 30. https://www.jstor.org/stable/j.ctv309h1fx.8
 [^8]: Matilda Baraibar Norberg and Lisa Deutsch, “The First Soybean Cycle (Domestication to 900 CE),” in The Soybean Through World History (Abingdon, UK: Routledge, 2023), 27.
-[^9]: Du Bois, The Story of Soy, 26.
-
+[^9]: Du Bois, *The Story of Soy*, 26.
+[^10]: Du Bois, *The Story of Soy*, 26.
+[^11]: Deutsch, “The First Soybean Cycle (Domestication to 900 CE),” 32.
+[^12]: Deutsch, 35.
 
 
