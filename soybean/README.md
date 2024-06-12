@@ -79,7 +79,8 @@ Immediately after World War I, U.S. farmers in agricultural systems developed on
 <param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 {paragraph 11}
 
-The soybean also gained notoriety during the uncertainty of World War II. During the war, farmers and scientists began searching for different uses of the plant, and one innovator, Henry Ford, went so far as to create a car using soybeans.30 Soybeans were also prized due to their oiliness, which could be used for food, plastic, and maybe even fuel. During the beginning of WWII, the U.S. doubled its soybean production to meet wartime demands for “oil and soy by-products.”31 By the end of the war, soy was being used in “margarine, paint, mayonnaise, wallpaper, glue, and dynamite, to mention just a few.”32 WWII put the U.S. on the map as the world’s top soybean producer. That is until 2006 – when the top exporter could, for the first time, be found in the Southern hemisphere.
+Soybeans also gained certain notoriety during the uncertainty of World War II. While they were prized due to their oiliness, which could be used for food, plastic, and even fuel, farmers and scientists continued to search for other uses for the plant. One innovator, Ford Motor Company founder Henry Ford, went so far as to build a plastic-bodied car using soybeans.[^32] He envisioned soybeans as a crop that could be industrialized, including having soybeans replace milk, and eventually, cows.[^33] In the early years of World War II, the United States doubled its soybean production to meet wartime demands for “oil and soy by-products.”[^34] By the end of the war, soy was being used in “margarine, paint, mayonnaise, wallpaper, glue, and dynamite, to mention just a few,” putting the United States on the map as the world’s top soybean producer.[^35]  The country continued to hold this status until 2019, when the top producer, for the first time in history, was in the southern hemisphere.[^36]
+
 <param ve-iframe src="https://archive.org/embed/different-uses-for-soybeans-the-henry-fords-innovation-nation">
 
 ## The Creation of Ghost Acres
@@ -143,6 +144,14 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^29]: “The Value of Soy Beans as a Food.,” Chicago Packer, December 29, 1917, Illinois Digital Newspaper Collections. https://idnc.library.illinois.edu/?a=d&d=CHP19171229.1.16&e=-------en-20--1--img-txIN-soy
 [^30]: “The Value of Soy Beans as a Food.”
 [^31]: Ines Prodöhl, Globalizing the Soybean: Fat, Feed, and Sometimes Food, c. 1900–1950 (Edition 1), Routledge Studies in Modern History (United Kingdom: Taylor and Francis, 2023), 7. https://doi.org/10.4324/9781003255222
+[^32]: Prodöhl, 6.
+[^33]: Greg Grandin, Fordlandia: The Rise and Fall of Henry Ford’s Forgotten Jungle City, First Edition (New York: Picador, 2010), 61–62.
+[^34]: Christine M. Du Bois, Chee Beng Tan, and Sidney Wilfred Mintz, The World of Soy (Singapore: NUS Press, 2008), 5.
+[^35]: Prodöhl, Globalizing the Soybean, 2.
+[^36]: Joana Colussi and Gary Schnitkey, “Brazil Likely to Remain World Leader in Soybean Production,” Farmdoc Daily 11, no. 105 (July 12, 2021). https://farmdocdaily.illinois.edu/2021/07/brazil-likely-to-remain-world-leader-in-soybean-production.html
+
+
+
 
 
 
