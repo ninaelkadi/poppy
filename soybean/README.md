@@ -66,7 +66,7 @@ In Germany in 1712, explorer Engelbert Kaempfer “published a 900-page descript
 <param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
-Months after the United States entered World War I, the soybean was developing a reputation for being a protein-packed crop which could save the U.S. from food shortages. One author in a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals…In the United States it can do the same…”22 The author emphasized that soybeans were seen as a potential alternative to the fruits of other industries, like the dairy industry, which rely more heavily on the unpredictability of human labor. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry, It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”23
+In Asia, Japan’s global influence was growing after its 1905 victory in the Russo-Japanese war—a war in which “soy was an incentive for conflict.”[^24] Japan's victory led to dramatic gains in the country’s mainland territorial control, and subsequently, an increase in soybean production: “between 1906 and 1921, soybean production grew from 600,000 to 4.5 million metric tons.”[^25] After the war, Poles brought back many different seeds, including soybean seeds. Many Poles subsequently began growing what they referred to as “Japanese beans,” in Poland.[^26]  Research on soybeans flourished in Poland after it gained independence from Russia; in 1930, Polish entomologist and crop scientist Czesław Marjan Bieżanko moved South America—living first in Argentina and later in a Polish settlement in Brazil—to teach Polish immigrants how to grow soybeans.[^27] In this roundabout way, soybean made landfall in Brazil.
 <param ve-iframe src="https://idnc.library.illinois.edu/embed/CHP19171229.2.142">
 {paragraph 9}
 
@@ -134,3 +134,9 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^21]: Patel, 167.
 [^22]: Du Bois, The Story of Soy, 39–40.
 [^23]: Du Bois, 42.
+[^24]: Du Bois, The Story of Soy, 8.
+[^25]: Lander and DuBois, “A History of Soy in China,” 39.
+[^26]: Rhuan Targino Zaleski Trindade, “The Polish-Brazilian Soy Connection: Ceslau Biezanko and the Introduction of Soy Utilities in Rio Grande Do Sul During the 1930s,” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 55. https://www.jstor.org/stable/j.ctv309h1fx.9
+[^27]: Trindade, 49.
+
+
