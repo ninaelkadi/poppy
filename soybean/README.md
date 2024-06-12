@@ -25,7 +25,7 @@ Over the past three decades, soybean growers in parts of South America have deve
 {paragraph 2}
 
 ## Humble Origins
-Wild soybeans, glycine soja, were originally found in a range which “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”4 Glycine soja is thought to have been “naturally distributed…as early as 9,000 years ago.”5 Initially, soy, like wheat at the time, was not seen as a prized food for human consumption due to its difficulty to consume without proper preparation.
+Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of domestication, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
 <param ve-map
        center="44, 125"
        zoom="5"
@@ -118,4 +118,9 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^4]: Ernst Langthaler, “Great Accelerations: Soy and Its Global Trade Network, 1950–2020,” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 78. https://www.jstor.org/stable/j.ctv309h1fx.10
 [^5]: “USDA ERS - Recent Trends in GE Adoption.” https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-u-s/recent-trends-in-ge-adoption/
 [^6]: Pablo Lapegna and Johana Kunin, “The Impact of Soybeans in Argentina and Beyond: A Double-Edged Sword?,” ReVista. https://revista.drclas.harvard.edu/the-impact-of-soybeans-in-argentina-and-beyond-a-double-edged-sword/
+[^7]: Brian Lander and Thomas David DuBois, “A History of Soy in China: From Weedy Bean to Global Commodity,” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 30. https://www.jstor.org/stable/j.ctv309h1fx.8
+[^8]: Matilda Baraibar Norberg and Lisa Deutsch, “The First Soybean Cycle (Domestication to 900 CE),” in The Soybean Through World History (Abingdon, UK: Routledge, 2023), 27.
+[^9]: Du Bois, The Story of Soy, 26.
+
+
 
