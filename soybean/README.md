@@ -62,7 +62,7 @@ In 1765, Samuel Bowen, an Englishman who traveled to China with the British East
 <param ve-iframe src="https://archive.org/embed/s2492id1330009/page/253">
 {paragraph 7}
 
-While the soybean was initially brought to the U.S. to produce and export soy sauce to Europe, by the early 20th century, American scientists and governmental agencies were also searching for alternative uses for the bean. In his 1918 Farmers’ Bulletin, USDA Scientific Assistant William Morse published a list of potential uses for soybean. Some options included ‘infant foods,’ ‘diabetic foods,’ ‘explosives,’ and ‘varnish.’21
+In Germany in 1712, explorer Engelbert Kaempfer “published a 900-page description of Japan” in which he detailed the soy plant and the multiple products that could be made from it.[^22] It wasn’t until the late nineteenth century, however, that soy took off in Europe, At the Universal Exposition of 1873, a world’s fair held in Vienna, soybeans “grown in China, Japan, Mongolia, Transcaucasia and even Tunisia,” were displayed.[^23]
 <param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
@@ -132,4 +132,5 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^19]: Lander and DuBois, 39.
 [^20]: Raj Patel, Stuffed and Starved: The Hidden Battle for the World Food System - Revised and Updated, Expanded edition (Brooklyn, N.Y: Melville House, 2012), 167.
 [^21]: Patel, 167.
-
+[^22]: Du Bois, The Story of Soy, 39–40.
+[^23]: Du Bois, 42.
