@@ -10,15 +10,14 @@
 .ve-annotate
 
 ## Introduction
-The average consumer may not realize that soy is found in almost everything they eat. From the vegetable oil in store-bought hummus and lecithin found in chocolate bars, to the mono- and diglycerides in hot chocolate packets and the coating on the skin of apples, soy is everywhere. Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^1]  In 2021, six percent of the earth’s surface was covered with soybeans.[^2]
-
+The average consumer may not realize that soy is found in almost everything they eat. It can be found on the coating of apples, in chocolate bars, and it comprises most of the vegetable oil we consume — some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
        title="Pivot Irrigration on a Soybean Field"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
        fit="contain">
 {paragraph 1}
 
-Throughout the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind a rapid acceleration in Amazonian deforestation.3 However, the story is not so simple; soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. How did soybeans go from being pesky weeds – which were so resilient that people just had to find a use for them – to a crop with demand so high that it is replacing trees in the Amazon? The history of soy provides a glimpse into the inextricable nature of plants, capitalism, and human life. Within the context of a changing climate, questions regarding the sustainability of our food system are more pertinent than ever. The changing role of soybeans could provide a cautionary tale. 
+Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian deforestation.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Deforestation_in_the_Amazon_%2846200453954%29.jpg"
        title="Satellite Image of Cultivated Land in the Amazon"
        description="Sentinel Hub, CC BY 2.0 [https://creativecommons.org/licenses/by/2.0], via Wikimedia Commons"
@@ -113,5 +112,10 @@ Consumers who are often beneficiaries of ghost acres tend to take for granted th
 Although deforestation is happening at a slower rate in 2023 than it has in years prior in the Amazon, rates of destruction are rising in the cerrado, “an ecosystem that sits atop one of the world’s largest sweetwater aquifers.”59 And with global demand for soy only rising, will the soybean overtake that landscape too? According to the United Nations, the world produces enough food to feed everyone and have food leftover.60 And yet, we are clearing land to make room for a commodity crop which, at its core, feeds animals. The soybean has long been a source of prosperity for humans. Now, the replacement of ecosystems with soybeans is one large factor in the acceleration of anthropogenic climate change. Although humans are still choosing soybeans, a question naturally arises: should we? 
 
 ## References
-[^1] Christine M. Du Bois, The Story of Soy, Illustrated edition (London: Reaktion Books, 2018), 9–10.
-[^2] Claiton Marcio da Silva and Claudio de Majo, “Towards the Soyacene: Narratives for an Environmental History of Soy in Latin America’s Southern Cone,” Historia Ambiental Latinoamericana y Caribeña (HALAC) Revista de La Solcha 11, no. 1 (April 16, 2021): 330. https://doi.org/10.32991/2237-2717.2021v11i1. p329-356
+[^1] Environmental Working Group, “Americans Eat Their Weight in Genetically Engineered Food,” October 15, 2012, https://www.ewg.org/news-insights/news-release/americans-eat-their-weight-genetically-engineered-food.
+[^2]Christine M. Du Bois, The Story of Soy, Illustrated edition (London: Reaktion Books, 2018), 9–10.
+[^3] Claiton Marcio da Silva and Claudio de Majo, “Towards the Soyacene: Narratives for an Environmental History of Soy in Latin America’s Southern Cone,” Historia Ambiental Latinoamericana y Caribeña (HALAC) Revista de La Solcha 11, no. 1 (April 16, 2021): 330. https://doi.org/10.32991/2237-2717.2021v11i1. p329-356
+[^4] Ernst Langthaler, “Great Accelerations: Soy and Its Global Trade Network, 1950–2020,” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 78. https://www.jstor.org/stable/j.ctv309h1fx.10
+[^5] “USDA ERS - Recent Trends in GE Adoption.” https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-u-s/recent-trends-in-ge-adoption/
+[^6] Pablo Lapegna and Johana Kunin, “The Impact of Soybeans in Argentina and Beyond: A Double-Edged Sword?,” ReVista. https://revista.drclas.harvard.edu/the-impact-of-soybeans-in-argentina-and-beyond-a-double-edged-sword/
+
