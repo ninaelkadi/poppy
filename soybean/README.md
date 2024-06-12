@@ -73,7 +73,7 @@ In Asia, Japan’s global influence was growing after its 1905 victory in the Ru
 In North America, soy was coming known for being a protein-packed crop that could prevent food shortages during World War I. In a 1918 Farmers’ Bulletin, a United States Department of Agriculture bulletin series given to members of Congress and sent to U.S. farmers upon request, scientific assistant William Morse published a list of potential uses for soybean. Some options included infant foods, diabetic foods, explosives, and varnish.[^28] An author of a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals … In the United States it can do the same…”[^29] The author emphasized that soybeans were seen as a potential alternative to the products of industries that were more reliant on human labor, which was scarce in wartime, such as the dairy industry. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry. It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”[^30]
 {paragraph 10}
 
-##A A Certain Crop During Uncertain Times
+##A Certain Crop During Uncertain Times
 
 Immediately after World War I, U.S. farmers in agricultural systems developed on an industrial scale faced a soil crisis. To keep soldiers fed during the war, many farmers turned to monocropping, a farming technique that plants the same plant year after year, while depleting the soil of nutrients. To address this problem, many farmers turned to soybeans because of their ability to restore the soil quality through nitrogen fixation.[^31] The plant that was once looked down upon for its “weediness,” was now being lauded for its potential to feed whole nations and save agricultural soil.
 <param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
@@ -83,9 +83,9 @@ Soybeans also gained certain notoriety during the uncertainty of World War II. W
 
 <param ve-iframe src="https://archive.org/embed/different-uses-for-soybeans-the-henry-fords-innovation-nation">
 
-## The Creation of Ghost Acres
+## The Changing Amazon
 
-“Sojización” is a term used to describe the change in the landscape – primarily from rainforest to soybean fields – in the Amazon. 33 This era began in what is known as the “Second Great Acceleration,” a period when “the [center] of gravity of soy’s trade network shifted from the Global North to the Global South.”34 The Great Acceleration, which began around 1950, “emphasizes the shift of worldwide resource extraction, exchange, processing, usage and deposition on an unprecedented scale from the mid-twentieth century onwards”35 This extraction is a hallmark of sojización; in South America, almost all soy is exported to China or European countries. Thus, the natural resources of the region – like the rainforest – are being depleted for the consumption or use of people in countries abroad, creating an ecosystem known as “ghost acres.”36
+Sojización is the term used to describe the change in the Amazonian landscape—its evolution from rainforest to soybean fields.[^37]  This process began in what is called the “Second Great Acceleration,” a period that began around 1950, when “the [center] of gravity of soy’s trade network shifted from the Global North to the Global South.”[^38] It comprised mass-scale interventions marking “the shift of worldwide resource extraction, exchange, processing, usage and deposition on an unprecedented scale from the mid-twentieth century onwards.”[^39] A hallmark of this extractive approach in South America was sojización, since almost all soy produced in South America is exported to Asia or Europe. As a result, the natural resources of the region, especially its rainforest, are being depleted for consumption in countries abroad, creating ecosystems known as “ghost acres.”[^40]
 <param ve-knightlab-timeline source="1iLFw-10EhV01iszqWYE68qcZcGvSZVaMkqrCYh9BU4o" timenav-position="bottom" hash-bookmark="false” initial-zoom="1" height="750">
 
 The rising demand for soybeans is due to their use as a high-protein animal feed. In 1995, the Chinese government began prioritizing the cultivation of human-food crops such as rice and wheat due to population increases. China thus reduced the production of animal-feed crops like soy, and instead turned to countries like Brazil for import.37 In 2018, the annual flow of soybean from Brazil to China amounted to 27 million USD, and “the associated deforestation risk amounted to 61,500 ha, from which 34,600 ha resulted from the Brazilian-Chinese trade. Since forests serve as a sink of greenhouse gases, Brazilian deforestation caused 10.0 Mt emissions of carbon dioxide to the atmosphere, of which the Chinese share was 5.6 Mt.”38 
@@ -149,6 +149,12 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^34]: Christine M. Du Bois, Chee Beng Tan, and Sidney Wilfred Mintz, The World of Soy (Singapore: NUS Press, 2008), 5.
 [^35]: Prodöhl, Globalizing the Soybean, 2.
 [^36]: Joana Colussi and Gary Schnitkey, “Brazil Likely to Remain World Leader in Soybean Production,” Farmdoc Daily 11, no. 105 (July 12, 2021). https://farmdocdaily.illinois.edu/2021/07/brazil-likely-to-remain-world-leader-in-soybean-production.html
+[^37]: Matilda Baraibar Norberg, “Sojización as a New First Movement: A Polanyian Analysis of the South American Soybean ‘Boom,’” in The Age of the Soybean, ed. Claiton Marcio da Silva and Claudio de Majo, An Environmental History of Soy During the Great Acceleration (Winwick, UK: White Horse Press, 2022), 91. https://www.jstor.org/stable/j.ctv309h1fx.11
+[^38]: Langthaler, “Great Accelerations,” 76.
+[^39]: Langthaler, 65.
+[^40]: Langthaler, 78. For more on this, see the description of soybeans as a “new colonizer” in the Amazon, Miguel Altieri and Walter Pengue, “GM soybean: Latin America’s new colonizer,” January 21, 2006. https://grain.org/es/article/entries/588-gm-soybean-latin-america-s-new-colonizer
+
+
 
 
 
