@@ -10,7 +10,8 @@
 .ve-annotate
 
 ## Introduction
-The average consumer may not realize that soy is found in almost everything they eat. From the vegetable oil in store-bought hummus, to the lecithin found in chocolate bars, to the mono- and diglycerides found in hot chocolate packets and on the outside of apples, soy is everywhere. Despite soy’s prominence in our food, most soy grown on earth is turned into animal feed; soy is by far the most common item on the menu for farmed animals, who eat over 90 percent of the soy grown today.1 In 2021, six percent of the earth’s surface was covered with soybeans.2 
+The average consumer may not realize that soy is found in almost everything they eat. From the vegetable oil in store-bought hummus and lecithin found in chocolate bars, to the mono- and diglycerides in hot chocolate packets and the coating on the skin of apples, soy is everywhere. Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^1]  In 2021, six percent of the earth’s surface was covered with soybeans.[^2]
+
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
        title="Pivot Irrigration on a Soybean Field"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
@@ -111,3 +112,6 @@ Consumers who are often beneficiaries of ghost acres tend to take for granted th
 
 Although deforestation is happening at a slower rate in 2023 than it has in years prior in the Amazon, rates of destruction are rising in the cerrado, “an ecosystem that sits atop one of the world’s largest sweetwater aquifers.”59 And with global demand for soy only rising, will the soybean overtake that landscape too? According to the United Nations, the world produces enough food to feed everyone and have food leftover.60 And yet, we are clearing land to make room for a commodity crop which, at its core, feeds animals. The soybean has long been a source of prosperity for humans. Now, the replacement of ecosystems with soybeans is one large factor in the acceleration of anthropogenic climate change. Although humans are still choosing soybeans, a question naturally arises: should we? 
 
+## References
+[1] Christine M. Du Bois, The Story of Soy, Illustrated edition (London: Reaktion Books, 2018), 9–10.
+[2] Claiton Marcio da Silva and Claudio de Majo, “Towards the Soyacene: Narratives for an Environmental History of Soy in Latin America’s Southern Cone,” Historia Ambiental Latinoamericana y Caribeña (HALAC) Revista de La Solcha 11, no. 1 (April 16, 2021): 330. https://doi.org/10.32991/2237-2717.2021v11i1. p329-356
