@@ -46,19 +46,19 @@ Soy’s reputation as a difficult-to-digest food began to change in the third ce
        fit="contain">
 {paragraph 4}
 
-Soybeans have an innate ability to grow almost anywhere and survive almost anything. Their resiliency has lent them to be referred to as “weedy.” 13 In the beginning of the soybean story, people did not really choose the soybean – the soybean, an ideal crop with its spread-ability and resilience, chose people. 14 Samira Peruchi Moretto et. al noted, “Soybeans probably began their career in agriculture not as valued crops, but as weeds that could be eaten if necessary.”15
+Soybeans have an innate ability to grow almost anywhere and survive almost anything; this resiliency has lead them to be referred to as “weedy.”[^13] In the beginning of the soybean story, people did not really choose the soybean—the soybean, an ideal crop with its ability to spread and resist adverse conditions, chose people.   As the authors of a recent publication noted, “Soybeans probably began their career in agriculture not as valued crops, but as weeds that could be eaten if necessary.”
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0121623">
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entity title="antimicrobial" eid="Q68541106">
 {paragraph 5}
 
 ## International Expansion
-Soy sauce is mentioned in British texts as early as the 17th century, but the 18th century is when soy production really took off worldwide.16 In the 18th century, people began exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas “like Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”17 As Brian Lander and Thomas David DuBois explained, the “explosion of global interest in soybeans coincided with a race to develop Manchuria itself.”18
+In the sixteenth century, soybeans were mentioned in herbalist Li Shizen’s medical manual *Bencao gangmu*, where he described how “virtually every part of the plant was used as medicine.”[^16]
 <param ve-iframe
        scr="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
 {paragraph 6}
 
-The beans are thought to have first made landfall in the United States as early as the 18th century when Samuel Bowen, an Englishman who travelled to China with the British East India Company, brought soybean seeds to the U.S. He asked the surveyor general of Georgia to plant the seeds for him, and included detailed notes about what the plant could be used for, primarily noting that the soybeans could be used to produce soy sauce for export to England.19 In his note, Bowen also described how people in China turned the soybeans into Vermicelli, a type of noodle. The surveyor general confirmed that the soybean did yield three crops and may have even yielded a fourth had he tended to the crop.20 
+In 1765, Samuel Bowen, an Englishman who traveled to China with the British East India Company, brought soy seeds to the United States. He asked the surveyor general of Georgia to plant them for him, providing detailed notes about what soybeans could be used for including making soy sauce for export to England.[^17] Bowen also described how the Chinese produced vermicelli, a type of noodle, from soybeans. The surveyor general subsequently reported that the soybeans yielded three crops and might have yielded a fourth had there not been a frost.[^18] By the eighteenth century, demand for soybean was beginning to boom, and merchants were exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas, including “Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”[^19] The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”[^20] Centuries later, the soybean was taxonomized by Carl Linnaeus as glycine, meaning sweet, and max due to its large nitrogen-fixing nodules.[^21]
 <param ve-iframe src="https://archive.org/embed/s2492id1330009/page/253">
 {paragraph 7}
 
@@ -123,5 +123,13 @@ Although deforestation is happening at a slower rate in 2023 than it has in year
 [^10]: Du Bois, *The Story of Soy*, 26.
 [^11]: Deutsch, “The First Soybean Cycle (Domestication to 900 CE),” 32.
 [^12]: Deutsch, 35.
-
+[^13]: Lander and DuBois, “A History of Soy in China,” 30.
+[^14]: Lander and DuBois, 30.
+[^15]: Lander and DuBois, 30.
+[^16]: Lander and DuBois, “A History of Soy in China,” 33–34.
+[^17]: T. Hymowitz and J. R. Harlan, “Introduction of Soybean to North America by Samuel Bowen in 1765,” Economic Botany 37, no. 4 (1983): 373.
+[^18]: The gentleman’s magazine, The Gentleman’s Magazine. Volume 37,  1767 (London : E. Cave, 1767), 253. http://archive.org/details/s2492id1330009
+[^19]: Lander and DuBois, 39.
+[^20]: Raj Patel, Stuffed and Starved: The Hidden Battle for the World Food System - Revised and Updated, Expanded edition (Brooklyn, N.Y: Melville House, 2012), 167.
+[^21]: Patel, 167.
 
