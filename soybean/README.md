@@ -46,7 +46,7 @@ Soy’s reputation as a difficult-to-digest food began to change in the third ce
        fit="contain">
 {paragraph 4}
 
-Soybeans have an innate ability to grow almost anywhere and survive almost anything; this resiliency has lead them to be referred to as “weedy.”[^13] In the beginning of the soybean story, people did not really choose the soybean—the soybean, an ideal crop with its ability to spread and resist adverse conditions, chose people.   As the authors of a recent publication noted, “Soybeans probably began their career in agriculture not as valued crops, but as weeds that could be eaten if necessary.”
+Soybeans have an innate ability to grow almost anywhere and survive almost anything; this resiliency has lead them to be referred to as “weedy.”[^13] In the beginning of the soybean story, people did not really choose the soybean—the soybean, an ideal crop with its ability to spread and resist adverse conditions, chose people.[^14] As the authors of a recent publication noted, “Soybeans probably began their career in agriculture not as valued crops, but as weeds that could be eaten if necessary.”[^15]
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0121623">
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entity title="antimicrobial" eid="Q68541106">
