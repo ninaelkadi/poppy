@@ -57,7 +57,7 @@ In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s me
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg"
        title="Portrait of Li Shizhen"
-       description="Unknown artist, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+       description="Unknown artist, CC BY 4.0 https://creativecommons.org/licenses/by/4.0, via Wikimedia Commons"
        fit="contain">
 {paragraph 6}
 
