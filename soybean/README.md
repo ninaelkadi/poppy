@@ -75,13 +75,16 @@ In Asia, Japan’s global influence was growing after its 1905 victory in the Ru
 
 In North America, soy was coming known for being a protein-packed crop that could prevent food shortages during World War I. In a 1918 Farmers’ Bulletin, a United States Department of Agriculture bulletin series given to members of Congress and sent to U.S. farmers upon request, scientific assistant William Morse published a list of potential uses for soybean. Some options included infant foods, diabetic foods, explosives, and varnish.[^28] An author of a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals … In the United States it can do the same…”[^29] The author emphasized that soybeans were seen as a potential alternative to the products of industries that were more reliant on human labor, which was scarce in wartime, such as the dairy industry. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry. It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”[^30]
 <param ve-iframe
-       src="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
+       srace="https://idnc.library.illinois.edu/?a=d&d=CHP19171229.2.142">
+<param ve-iframe
+       src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 {paragraph 10}
 
 ##A Certain Crop During Uncertain Times
 
 Immediately after World War I, U.S. farmers in agricultural systems developed on an industrial scale faced a soil crisis. To keep soldiers fed during the war, many farmers turned to monocropping, a farming technique that plants the same plant year after year, while depleting the soil of nutrients. To address this problem, many farmers turned to soybeans because of their ability to restore the soil quality through nitrogen fixation.[^31] The plant that was once looked down upon for its “weediness,” was now being lauded for its potential to feed whole nations and save agricultural soil.
-<param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
+<param ve-iframe
+       src="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
 {paragraph 11}
 
 Soybeans also gained certain notoriety during the uncertainty of World War II. While they were prized due to their oiliness, which could be used for food, plastic, and even fuel, farmers and scientists continued to search for other uses for the plant. One innovator, Ford Motor Company founder Henry Ford, went so far as to build a plastic-bodied car using soybeans.[^32] He envisioned soybeans as a crop that could be industrialized, including having soybeans replace milk, and eventually, cows.[^33] In the early years of World War II, the United States doubled its soybean production to meet wartime demands for “oil and soy by-products.”[^34] By the end of the war, soy was being used in “margarine, paint, mayonnaise, wallpaper, glue, and dynamite, to mention just a few,” putting the United States on the map as the world’s top soybean producer.[^35]  The country continued to hold this status until 2019, when the top producer, for the first time in history, was in the southern hemisphere.[^36]
