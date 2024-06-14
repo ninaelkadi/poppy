@@ -75,7 +75,7 @@ In Asia, Japan’s global influence was growing after its 1905 victory in the Ru
 
 In North America, soy was coming known for being a protein-packed crop that could prevent food shortages during World War I. In a 1918 Farmers’ Bulletin, a United States Department of Agriculture bulletin series given to members of Congress and sent to U.S. farmers upon request, scientific assistant William Morse published a list of potential uses for soybean. Some options included infant foods, diabetic foods, explosives, and varnish.[^28] An author of a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals … In the United States it can do the same…”[^29] The author emphasized that soybeans were seen as a potential alternative to the products of industries that were more reliant on human labor, which was scarce in wartime, such as the dairy industry. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry. It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”[^30]
 <param ve-iframe
-       srace="https://idnc.library.illinois.edu/?a=d&d=CHP19171229.2.142">
+       src="https://idnc.library.illinois.edu/?a=d&d=CHP19171229.2.142">
 <param ve-iframe
        src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 {paragraph 10}
