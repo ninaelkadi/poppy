@@ -11,8 +11,8 @@
 
 ## Introduction
 The average consumer may not realize that soy is found in almost everything they eat. It can be found on the coating of apples, in chocolate bars, and it comprises most of the vegetable oil we consume — some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
-       title="Pivot Irrigration on a Soybean Field"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Soybean_Oil%2C_Meal_and_Beans_%2810059732523%29.jpg"
+       title="Soybean Oil, Meal, and Beans"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
        fit="contain">
 {paragraph 1}
@@ -120,6 +120,10 @@ Soybean, progressing from resiliency to versatility, chose humans; today, humans
 This large-scale production is unsustainable. Although it is nitrogen-fixing, when soy is continuously replanted, it depletes the soil. In Argentina, for example, “36 per cent of Argentine territory—roughly 100 million hectares—has become eroded over the past 25 years.”[^62] As for Roundup Ready and other GM products, they perpetuate cycles of destruction of their own. Only ten years after Roundup Ready soybeans was introduced into Argentina, glyphosate-resistant weeds began cropping up, too, causing growers to spray more toxic herbicides.[^63]
 
 When certain crops are grown as a monoculture on a large scale, as in the case of soybeans, they lose nutritional value. This is due to the inverse yield nitrogen law that states “increased yields will be followed by a decrease in protein concentration.”[^64] This pattern creates a dangerous cycle where growers need to produce more crops to meet the same protein concentrations traders demand.[^65]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
+       title="Pivot Irrigration on a Soybean Field"
+       description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
+       fit="contain">
 
 Consumers, who are indirectly complicit in the creation of the “ghost acres,” tend to take for granted the availability and cheapness of commodity crops like soybean. Even if consumers are not eating “direct” soy products, for example, tofu or tempeh, they are likely consuming soy multiple times a day, whether by way of processed food or coating on fruits and vegetables. The rising global demand for soy has only been met through the destruction of multiple ecosystems. As journalists and authors Maurício Torres and Sue Branford wrote, “there is no such thing as empty land. Each tract of forest is used in some way, even if it isn’t inhabited.”[^66]
 
