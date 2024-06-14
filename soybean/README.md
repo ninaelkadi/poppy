@@ -54,7 +54,6 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 
 ## International Expansion
 In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s medical manual *Bencao gangmu*, where he described how “virtually every part of the plant was used as medicine.”[^16]
-
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg">
 {paragraph 6}
