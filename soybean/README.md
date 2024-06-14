@@ -55,7 +55,10 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 ## International Expansion
 In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s medical manual *Bencao gangmu*, where he described how “virtually every part of the plant was used as medicine.”[^16]
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg"
+       title="Portrait of Li Shizhen"
+       description="Unknown artist, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+       fit="contain">
 {paragraph 6}
 
 In 1765, Samuel Bowen, an Englishman who traveled to China with the British East India Company, brought soy seeds to the United States. He asked the surveyor general of Georgia to plant them for him, providing detailed notes about what soybeans could be used for including making soy sauce for export to England.[^17] Bowen also described how the Chinese produced vermicelli, a type of noodle, from soybeans. The surveyor general subsequently reported that the soybeans yielded three crops and might have yielded a fourth had there not been a frost.[^18] By the eighteenth century, demand for soybean was beginning to boom, and merchants were exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas, including “Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”[^19] The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”[^20] Centuries later, the soybean was taxonomized by Carl Linnaeus as glycine, meaning sweet, and max due to its large nitrogen-fixing nodules.[^21]
