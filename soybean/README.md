@@ -54,8 +54,9 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 
 ## International Expansion
 In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s medical manual *Bencao gangmu*, where he described how “virtually every part of the plant was used as medicine.”[^16]
-<param ve-iframe
-       src="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg">
 {paragraph 6}
 
 In 1765, Samuel Bowen, an Englishman who traveled to China with the British East India Company, brought soy seeds to the United States. He asked the surveyor general of Georgia to plant them for him, providing detailed notes about what soybeans could be used for including making soy sauce for export to England.[^17] Bowen also described how the Chinese produced vermicelli, a type of noodle, from soybeans. The surveyor general subsequently reported that the soybeans yielded three crops and might have yielded a fourth had there not been a frost.[^18] By the eighteenth century, demand for soybean was beginning to boom, and merchants were exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas, including “Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”[^19] The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”[^20] Centuries later, the soybean was taxonomized by Carl Linnaeus as glycine, meaning sweet, and max due to its large nitrogen-fixing nodules.[^21]
@@ -71,6 +72,8 @@ In Asia, Japan’s global influence was growing after its 1905 victory in the Ru
 {paragraph 9}
 
 In North America, soy was coming known for being a protein-packed crop that could prevent food shortages during World War I. In a 1918 Farmers’ Bulletin, a United States Department of Agriculture bulletin series given to members of Congress and sent to U.S. farmers upon request, scientific assistant William Morse published a list of potential uses for soybean. Some options included infant foods, diabetic foods, explosives, and varnish.[^28] An author of a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals … In the United States it can do the same…”[^29] The author emphasized that soybeans were seen as a potential alternative to the products of industries that were more reliant on human labor, which was scarce in wartime, such as the dairy industry. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry. It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”[^30]
+<param ve-iframe
+       src="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
 {paragraph 10}
 
 ##A Certain Crop During Uncertain Times
