@@ -18,7 +18,9 @@ The average consumer may not realize that soy is found in almost everything they
 {paragraph 1}
 
 Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian deforestation.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
-
+ <param ve-iframe
+       src="https://ourworldindata.org/grapher/soybean-production?tab=map"
+	fit="contain">
 {paragraph 2}
 
 ## Humble Origins
@@ -108,9 +110,6 @@ The unending demand for soybeans is due to their continued use as a high-protein
 Such a massive increase in scale of soybean production aligns with the introduction of GM soybeans. A salient example is Monsanto’s “Roundup Ready” soybeans, which were approved in Argentina and the United States in 1996 through the “principle of substantial equivalence,” claiming that “overall GM soybeans are similar to their non-GM equivalent, and thus represent no risk to the public health of the environment.”[^43] Since being launched in Argentina, Roundup Ready soybeans have had “practically a 100 per cent adoption rate.”[^44]  By the 2000s, GM soybeans changed the Argentinian landscape, covering around 50 percent “of the country’s arable land.”[^45] These GM plants are resistant to glyphosate, an herbicide used to kill weeds, allowing growers to spray the herbicide Roundup without killing the plant. In 2012, 80 Olympic-sized swimming pools worth of glyphosate—53 million gallons—"were sprayed across Argentina.”[^46]
 <param ve-iframe
 	src="https://www.ers.usda.gov/scripts/widget_charts_of_note.js?key=ga2jsXxoXht0G5reBa57ow3iExKPNBDa37bYyCdM&cId=78187"
-	fit="contain">
- <param ve-iframe
-       src="https://ourworldindata.org/grapher/soybean-production?tab=map"
 	fit="contain">
 {paragraph 15}
 
