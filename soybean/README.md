@@ -17,14 +17,14 @@ The average consumer may not realize that soy is found in almost everything they
        fit="contain">
 {paragraph 1}
 
-Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian <span eid="Q169940">deforestation</span>.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
+Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian <span eid="Q169940">deforestation</span>.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most <span eid="Q1503477">genetically modified (GM)</span> crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of <span eid="Q83323">fertilizers</span> and the ever-changing resistance of the plant to new chemicals.[^6]
  <param ve-iframe
        src="https://ourworldindata.org/grapher/soybean-production?tab=map"
 	fit="contain">
 {paragraph 2}
 
 ## Humble Origins
-Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of domestication, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
+Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of <span eid="Q11395">domestication</span>, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
 <param ve-map
        center="44, 125"
        zoom="5"
@@ -38,7 +38,7 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
        stroke-width="0">
 {paragraph 3}
 
-Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a fermented soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a Han dynasty agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and cultivate soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
+Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a <span eid="Q41760">fermented</span> soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a <span eid="Q7209">Han dynasty</span> agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and <span eid="Q4886">cultivate</span> soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chinese_Materia_Dietetica%2C_Ming%3B_Fermented_sauce_%28jiang%29_Wellcome_L0039386.jpg" 
 	title="Chinese Materia Dietetica, Ming: Fermented sauce (jiang)"
@@ -53,7 +53,7 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 {paragraph 5}
 
 ## International Expansion
-In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s medical manual *Bencao gangmu*, where he described how “virtually every part of the plant was used as medicine.”[^16]
+In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s medical manual <span eid="Q816658">*Bencao gangmu*</span>, where he described how “virtually every part of the plant was used as medicine.”[^16]
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg"
        title="Portrait of Li Shizhen"
@@ -61,7 +61,7 @@ In the sixteenth century, soybeans were mentioned in herbalist Li Shizhen’s me
        fit="contain">
 {paragraph 6}
 
-In 1765, Samuel Bowen, an Englishman who traveled to China with the British East India Company, brought soy seeds to the United States. He asked the surveyor general of Georgia to plant them for him, providing detailed notes about what soybeans could be used for including making soy sauce for export to England.[^17] Bowen also described how the Chinese produced vermicelli, a type of noodle, from soybeans. The surveyor general subsequently reported that the soybeans yielded three crops and might have yielded a fourth had there not been a frost.[^18] By the eighteenth century, demand for soybean was beginning to boom, and merchants were exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas, including “Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”[^19] The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”[^20] Centuries later, the soybean was taxonomized by Carl Linnaeus as glycine, meaning sweet, and max due to its large nitrogen-fixing nodules.[^21]
+In 1765, <span eid="Q16859254">Samuel Bowen</span>, an Englishman who traveled to China with the <span eid="Q83164">British East India Company</span>, brought soy seeds to the United States. He asked the surveyor general of Georgia to plant them for him, providing detailed notes about what soybeans could be used for including making soy sauce for export to England.[^17] Bowen also described how the Chinese produced <span eid="Q20027">vermicelli<span>, a type of noodle, from soybeans. The surveyor general subsequently reported that the soybeans yielded three crops and might have yielded a fourth had there not been a frost.[^18] By the eighteenth century, demand for soybean was beginning to boom, and merchants were exporting soybeans from <span eid="Q81126">Manchuria</span>, a fertile region of Northeast China, to other areas, including “Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”[^19] The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”[^20] Centuries later, the soybean was taxonomized by <span eid="Q1043">Carl Linnaeus</span> as glycine, meaning sweet, and max due to its large nitrogen-fixing nodules.[^21]
 <param ve-iframe src="https://archive.org/embed/s2492id1330009/page/253">
 {paragraph 7}
 
