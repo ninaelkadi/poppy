@@ -17,7 +17,7 @@ The average consumer may not realize that soy is found in almost everything they
        fit="contain">
 {paragraph 1}
 
-Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian deforestation.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
+Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian <span eid="Q169940">deforestation</span>.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
  <param ve-iframe
        src="https://ourworldindata.org/grapher/soybean-production?tab=map"
 	fit="contain">
