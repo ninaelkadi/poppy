@@ -69,8 +69,10 @@ In Germany in 1712, explorer Engelbert Kaempfer “published a 900-page descript
 <param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
-In Asia, Japan’s global influence was growing after its 1905 victory in the Russo-Japanese war—a war in which “soy was an incentive for conflict.”[^24] Japan's victory led to dramatic gains in the country’s mainland territorial control, and subsequently, an increase in soybean production: “between 1906 and 1921, soybean production grew from 600,000 to 4.5 million metric tons.”[^25] After the war, Poles brought back many different seeds, including soybean seeds. Many Poles subsequently began growing what they referred to as “Japanese beans,” in Poland.[^26]  Research on soybeans flourished in Poland after it gained independence from Russia; in 1930, Polish entomologist and crop scientist Czesław Marjan Bieżanko moved South America—living first in Argentina and later in a Polish settlement in Brazil—to teach Polish immigrants how to grow soybeans.[^27] In this roundabout way, soybean made landfall in Brazil.
-<param ve-iframe src="https://idnc.library.illinois.edu/embed/CHP19171229.2.142">
+In Asia, Japan’s global influence was growing after its 1905 victory in the Russo-Japanese war—a war in which “soy was an incentive for conflict.”[^24] Japan's victory led to dramatic gains in the country’s mainland territorial control, and subsequently, an increase in soybean production: “between 1906 and 1921, soybean production grew from 600,000 to 4.5 million metric tons.”[^25] After the war, Poles brought back many different seeds, including soybean seeds. Many Poles subsequently began growing what they referred to as “Japanese beans,” in [Poland](flyto/52.86889003189499,18.88802680908932,6).[^26]  Research on soybeans flourished in Poland after it gained independence from Russia; in 1930, Polish entomologist and crop scientist Czesław Marjan Bieżanko moved South America—living first in Argentina and later in a Polish settlement in [Brazil](flyto/-8.064113887507766,-54.680238621500415,4)—to teach Polish immigrants how to grow soybeans.[^27] In this roundabout way, soybean made landfall in Brazil.
+<param ve-map
+			 center="36.800042129868956, 139.04385130011642"
+			 zoom="6">
 {paragraph 9}
 
 In North America, soy was coming known for being a protein-packed crop that could prevent food shortages during World War I. In a 1918 Farmers’ Bulletin, a United States Department of Agriculture bulletin series given to members of Congress and sent to U.S. farmers upon request, scientific assistant William Morse published a list of potential uses for soybean. Some options included infant foods, diabetic foods, explosives, and varnish.[^28] An author of a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals … In the United States it can do the same…”[^29] The author emphasized that soybeans were seen as a potential alternative to the products of industries that were more reliant on human labor, which was scarce in wartime, such as the dairy industry. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry. It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”[^30]
@@ -78,7 +80,7 @@ In North America, soy was coming known for being a protein-packed crop that coul
        src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 {paragraph 10}
 
-##A Certain Crop During Uncertain Times
+## A Certain Crop During Uncertain Times
 
 Immediately after World War I, U.S. farmers in agricultural systems developed on an industrial scale faced a soil crisis. To keep soldiers fed during the war, many farmers turned to monocropping, a farming technique that plants the same plant year after year, while depleting the soil of nutrients. To address this problem, many farmers turned to soybeans because of their ability to restore the soil quality through nitrogen fixation.[^31] The plant that was once looked down upon for its “weediness,” was now being lauded for its potential to feed whole nations and save agricultural soil.
 <param ve-iframe
@@ -92,20 +94,21 @@ Soybeans also gained certain notoriety during the uncertainty of World War II. W
 ## The Changing Amazon
 
 Sojización is the term used to describe the change in the Amazonian landscape—its evolution from rainforest to soybean fields.[^37]  This process began in what is called the “Second Great Acceleration,” a period that began around 1950, when “the [center] of gravity of soy’s trade network shifted from the Global North to the Global South.”[^38] It comprised mass-scale interventions marking “the shift of worldwide resource extraction, exchange, processing, usage and deposition on an unprecedented scale from the mid-twentieth century onwards.”[^39] A hallmark of this extractive approach in South America was sojización, since almost all soy produced in South America is exported to Asia or Europe. As a result, the natural resources of the region, especially its rainforest, are being depleted for consumption in countries abroad, creating ecosystems known as “ghost acres.”[^40]
-<param ve-knightlab-timeline source="1iLFw-10EhV01iszqWYE68qcZcGvSZVaMkqrCYh9BU4o" timenav-position="bottom" hash-bookmark="false” initial-zoom="1" height="750">
+
 {paragraph 13}
 
 The unending demand for soybeans is due to their continued use as a high-protein animal feed. In 1995, the Chinese government began prioritizing the cultivation of human-food crops, such as rice and wheat, due to the increase in its population. As a result, China reduced the production of animal-feed crops such as soy, turning to other countries, including Brazil, for import.[^41] In 2018, the annual cost of soybeans exported from Brazil to China was 27 million USD, while “the associated deforestation risk amounted to 61,500 hectares, from which 34,600 hectares resulted from the Brazilian-Chinese trade. Since forests serve as a sink of greenhouse gases, Brazilian deforestation caused 10.0 metric tons of emissions of carbon dioxide into the atmosphere, of which the Chinese share was 5.6 metric tons.”[^42]
-<param ve-iframe
-       src="https://ourworldindata.org/grapher/soybean-production?tab=map">
+<param ve-image
+			 url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Annual_CO2_emissions_from_deforestation_by_product%2C_Brazil.png"
+			 title="Annual CO2 emissions from deforestation by product, Brazil."
+			 description="Our world in data, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+			 fit="contain">
 {paragraph 14}
 
 Such a massive increase in scale of soybean production aligns with the introduction of GM soybeans. A salient example is Monsanto’s “Roundup Ready” soybeans, which were approved in Argentina and the United States in 1996 through the “principle of substantial equivalence,” claiming that “overall GM soybeans are similar to their non-GM equivalent, and thus represent no risk to the public health of the environment.”[^43] Since being launched in Argentina, Roundup Ready soybeans have had “practically a 100 per cent adoption rate.”[^44]  By the 2000s, GM soybeans changed the Argentinian landscape, covering around 50 percent “of the country’s arable land.”[^45] These GM plants are resistant to glyphosate, an herbicide used to kill weeds, allowing growers to spray the herbicide Roundup without killing the plant. In 2012, 80 Olympic-sized swimming pools worth of glyphosate—53 million gallons—"were sprayed across Argentina.”[^46]
-<param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Annual_CO2_emissions_from_deforestation_by_product%2C_Brazil.png"
-       title="Annual CO2 emissions from deforestation by product, Brazil."
-       description="Our world in data, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
-	fit="contain">
+<param ve-iframe
+       src="https://ourworldindata.org/grapher/soybean-production?tab=map">
+fit="contain">
 {paragraph 15}
 
 The GM explosion in Argentina has resulted in large agribusinesses taking land from Indigenous people, stripping them of their homes, and often imperiling their health.[^47] One a windy day in February 2003, farmers in Monte Azul woke up to the brutal realization that overnight, neighboring large-scale growers had sprayed their glyphosate-resistant soybeans with the herbicide 2,4D, and that glyphosate drifted over and killed their crop.[^48] The farmers organized and hired a specialist to prove that their plants were killed by the herbicide. After analyzing the physiological effects that the spraying had on the farmers and the plants, the specialist advised the farmers to destroy their crops due to their toxicity, effectively decimating their harvest.[^49] For the next few months, farmers demonstrated against the fumigation of soybean fields, blocking roads and slitting airplane tires with knives.[^50] Eventually, a judge ordered that large-scale growers stop fumigating soybean fields. The ruling, however, came too late, as many of the local farmers had stopped investing in staple crops, terrified that their crops “could be destroyed by another agrochemical drift.”[^51] The “principle of substantial equivalence” was not as “equivalent” as it may have initially seemed. GM soybeans require toxic herbicides, which kill non-GM crops, and, over time, have detrimental effects on human health.[^52] Glyphosate has been linked to cancers, non-Hodgkin lymphoma, and other serious health issues.[^53] The phrase “deforestation in the Amazon” means so much more than just cutting down the rainforest; in the case of soy, it signifies the erasure of lives and livelihoods.
@@ -125,12 +128,18 @@ Soybean, progressing from resiliency to versatility, chose humans; today, humans
 This large-scale production is unsustainable. Although it is nitrogen-fixing, when soy is continuously replanted, it depletes the soil. In Argentina, for example, “36 per cent of Argentine territory—roughly 100 million hectares—has become eroded over the past 25 years.”[^62] As for Roundup Ready and other GM products, they perpetuate cycles of destruction of their own. Only ten years after Roundup Ready soybeans was introduced into Argentina, glyphosate-resistant weeds began cropping up, too, causing growers to spray more toxic herbicides.[^63]
 
 When certain crops are grown as a monoculture on a large scale, as in the case of soybeans, they lose nutritional value. This is due to the inverse yield nitrogen law that states “increased yields will be followed by a decrease in protein concentration.”[^64] This pattern creates a dangerous cycle where growers need to produce more crops to meet the same protein concentrations traders demand.[^65]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
-       title="Pivot Irrigration on a Soybean Field"
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
+title="Pivot Irrigration on a Soybean Field"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
        fit="contain">
 
 Consumers, who are indirectly complicit in the creation of the “ghost acres,” tend to take for granted the availability and cheapness of commodity crops like soybean. Even if consumers are not eating “direct” soy products, for example, tofu or tempeh, they are likely consuming soy multiple times a day, whether by way of processed food or coating on fruits and vegetables. The rising global demand for soy has only been met through the destruction of multiple ecosystems. As journalists and authors Maurício Torres and Sue Branford wrote, “there is no such thing as empty land. Each tract of forest is used in some way, even if it isn’t inhabited.”[^66]
+<param ve-image
+			 url="https://upload.wikimedia.org/wikipedia/commons/7/78/Brazilian_Amazon.jpg"
+			 title="Aerial view of the Amazon Rainforest, near Manaus, the capital of the Brazilian state of Amazonas."
+			 description="Neil Palmer/CIAT, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+			 fit="contain">
 
 Deforestation in the Amazon is moving at a slower rate in 2023 than in previous years, thanks to anti-deforestation policies implemented by Brazil’s president Luiz Inácio Lula da Silva.[^67] However, rates of destruction are rising in the savannah-like cerrado, “an ecosystem that sits atop one of the world’s largest sweetwater aquifers.”[^68] This land contains some of the oldest soil on earth, and to successfully grow soybeans requires more and more fertilizers; yet, the region is becoming a popular place for even American midwestern farmers to turn to in hopes of a more fruitful, GM-driven harvest.[^69] With the global demand for soy rising, will soy overtake other landscapes, too? According to the United Nations, the world produces enough food to feed everyone and still have leftovers.[^70] And yet, we are clearing land to make room for a commodity crop, which, at its core, is used as animal feed. Soybean has long been a source of prosperity for humans. Now, the replacement of the original ecosystems with soybean fields is one major factor in the acceleration of anthropogenic climate change. Although humans are still choosing soybeans, the question naturally arises: should we?
 <param ve-iframe
