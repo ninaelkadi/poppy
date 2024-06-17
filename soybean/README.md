@@ -66,7 +66,11 @@ In 1765, <span eid="Q16859254">Samuel Bowen</span>, an Englishman who traveled t
 {paragraph 7}
 
 In Germany in 1712, explorer and botanist <span eid="Q58042">Engelbert Kaempfer</span> “published a 900-page description of Japan” in which he detailed the soy plant and the multiple products that could be made from it.[^22] It wasn’t until the late nineteenth century, however, that soy took off in Europe. At the <span eid="Q871508">Universal Exposition of 1873, a world’s fair held in Vienna</span>, soybeans “grown in China, Japan, Mongolia, Transcaucasia and even Tunisia,” were displayed.[^23]
-<param-ve iframe srce="https://ia801403.us.archive.org/18/items/b29353452_0001/b29353452_0001.pdf">
+<param-ve image
+url="https://upload.wikimedia.org/wikipedia/commons/4/48/Engelbert_Kaempfer_cartouche.jpg"
+title="Engelbert Kaempfer drawing a map of Japan"
+description="Matthäus Seuttetre, Public domain, via Wikimedia Commons"
+fit="contain">
 {paragraph 8}
 
 In Asia, Japan’s global influence was growing after its 1905 victory in the <span eid="Q159950">Russo-Japanese war</span>—a war in which “soy was an incentive for conflict.”[^24] Japan's victory led to dramatic gains in the country’s mainland territorial control, and subsequently, an increase in soybean production: “between 1906 and 1921, soybean production grew from 600,000 to 4.5 million metric tons.”[^25] After the war, Poles who fought in the war brought back many different seeds, including soybean seeds, to Poland. Many Poles subsequently began growing what they referred to as “Japanese beans,” in [Poland](flyto/52.86889003189499,18.88802680908932,6).[^26]  Research on soybeans flourished in Poland after it gained independence from Russia; in 1930, Polish entomologist and crop scientist <span eid="Q517016">Czesław Marjan Bieżanko</span> moved to South America—living first in Argentina and later in a Polish settlement in [Brazil](flyto/-8.064113887507766,-54.680238621500415,4)—to teach Polish immigrants how to grow soybeans.[^27] In this roundabout way, soybean made landfall in Brazil.
