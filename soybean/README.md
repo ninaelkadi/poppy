@@ -119,15 +119,16 @@ The GM explosion in Argentina has resulted in large agribusinesses taking land f
 In April 2006, Greenpeace released a report stating that U.S. corporations “were responsible for 60 percent of the financing of Brazilian soybean agriculture.”[^54] The report also detailed where soy from the Amazon ended up, including in animal feed for McDonalds’s chickens. McDonalds chicken nuggets, in other words, were produced from chickens fed with soybeans grown on deforested Amazonian land.[^55] McDonalds responded to the report by pledging to “stop selling chicken fed on soybeans grown in newly deforested areas of the Amazon.”[^56] The pressure from the Greenpeace report resulted in a “soy moratorium,” in Brazil, signed two months after the report’s release. The moratorium stipulated that, from that point on, companies would no longer buy soy from newly deforested areas.[^57]
 <param-ve iframe
 					src="https://www.greenpeace.org/usa/wp-content/uploads/legacy/Global/usa/planet3/PDFs/eating-up-the-amazon-executiv.pdf">
+{paragraph 17}
 
 In theory, the moratorium seemed to work, as there was evidence that the rate of deforestation for soybean production in the Amazon was slowing. In practice, however, soybean growers simply shifted where they planted: to cattle pastures. As they pushed cattle farmers out of the pastures and into the Amazon rainforest, the growers planted soybeans in the abandoned pastures. Paradoxically, it was cattle farmers, not soybean growers, who were accused of perpetuating deforestation.[^58] Indeed, the soy moratorium applied to soy, not cattle, effectively creating a perfect loophole.[^59] Some scholars argue that the soy moratorium had almost no effect on deforestation.[^60]
-
+{paragraph 18}
 
 ## The Fragility of the "Soyacene"
 
-Soybean, progressing from resiliency to versatility, chose humans; today, humans are overwhelmingly choosing soybeans. In 2022, an estimated 350 million metric tons of soy were produced worldwide.[^61]
+Soybean, progressing from resiliency to versatility, chose humans; today, humans are overwhelmingly choosing soybeans. In 2022, an estimated 350 million metric tons of soy were produced worldwide.[^61] This large-scale production is unsustainable. Although it is nitrogen-fixing, when soy is continuously replanted, it depletes the soil. In Argentina, for example, “36 per cent of Argentine territory—roughly 100 million hectares—has become eroded over the past 25 years.”[^62] As for Roundup Ready and other GM products, they perpetuate cycles of destruction of their own. Only ten years after Roundup Ready soybeans was introduced into Argentina, glyphosate-resistant weeds began cropping up, too, causing growers to spray more toxic herbicides.[^63]
 
-This large-scale production is unsustainable. Although it is nitrogen-fixing, when soy is continuously replanted, it depletes the soil. In Argentina, for example, “36 per cent of Argentine territory—roughly 100 million hectares—has become eroded over the past 25 years.”[^62] As for Roundup Ready and other GM products, they perpetuate cycles of destruction of their own. Only ten years after Roundup Ready soybeans was introduced into Argentina, glyphosate-resistant weeds began cropping up, too, causing growers to spray more toxic herbicides.[^63]
+{paragraph 19}
 
 When certain crops are grown as a monoculture on a large scale, as in the case of soybeans, they lose nutritional value. This is due to the inverse yield nitrogen law that states “increased yields will be followed by a decrease in protein concentration.”[^64] This pattern creates a dangerous cycle where growers need to produce more crops to meet the same protein concentrations traders demand.[^65]
 <param ve-image
@@ -135,6 +136,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-157
 title="Pivot Irrigration on a Soybean Field"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
        fit="contain">
+{paragraph 20}
 
 Consumers, who are indirectly complicit in the creation of the “ghost acres,” tend to take for granted the availability and cheapness of commodity crops like soybean. Even if consumers are not eating “direct” soy products, for example, tofu or tempeh, they are likely consuming soy multiple times a day, whether by way of processed food or coating on fruits and vegetables. The rising global demand for soy has only been met through the destruction of multiple ecosystems. As journalists and authors Maurício Torres and Sue Branford wrote, “there is no such thing as empty land. Each tract of forest is used in some way, even if it isn’t inhabited.”[^66]
 <param ve-image
@@ -142,11 +144,12 @@ Consumers, who are indirectly complicit in the creation of the “ghost acres,�
 			 title="Aerial view of the Amazon Rainforest, near Manaus, the capital of the Brazilian state of Amazonas."
 			 description="Neil Palmer/CIAT, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 			 fit="contain">
+	{paragraph 21}
 
 Deforestation in the Amazon is moving at a slower rate in 2023 than in previous years, thanks to anti-deforestation policies implemented by Brazil’s president Luiz Inácio Lula da Silva.[^67] However, rates of destruction are rising in the savannah-like cerrado, “an ecosystem that sits atop one of the world’s largest sweetwater aquifers.”[^68] This land contains some of the oldest soil on earth, and to successfully grow soybeans requires more and more fertilizers; yet, the region is becoming a popular place for even American midwestern farmers to turn to in hopes of a more fruitful, GM-driven harvest.[^69] With the global demand for soy rising, will soy overtake other landscapes, too? According to the United Nations, the world produces enough food to feed everyone and still have leftovers.[^70] And yet, we are clearing land to make room for a commodity crop, which, at its core, is used as animal feed. Soybean has long been a source of prosperity for humans. Now, the replacement of the original ecosystems with soybean fields is one major factor in the acceleration of anthropogenic climate change. Although humans are still choosing soybeans, the question naturally arises: should we?
 <param ve-iframe
 src="https://data.worldbank.org/share/widget?indicators=AG.LND.AGRI.K2&locations=BR">
-
+{paragraph 22}
 
 ## References
 [^1]: Environmental Working Group, “Americans Eat Their Weight in Genetically Engineered Food,” October 15, 2012, https://www.ewg.org/news-insights/news-release/americans-eat-their-weight-genetically-engineered-food.
