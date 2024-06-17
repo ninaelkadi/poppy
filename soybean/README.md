@@ -127,6 +127,11 @@ In theory, the moratorium seemed to work, as there was evidence that the rate of
 ## The Fragility of the "Soyacene"
 
 Soybean, progressing from resiliency to versatility, chose humans; today, humans are overwhelmingly choosing soybeans. In 2022, an estimated 350 million metric tons of soy were produced worldwide.[^61] This large-scale production is unsustainable. Although it is nitrogen-fixing, when soy is continuously replanted, it depletes the soil. In Argentina, for example, “36 per cent of Argentine territory—roughly 100 million hectares—has become eroded over the past 25 years.”[^62] As for Roundup Ready and other GM products, they perpetuate cycles of destruction of their own. Only ten years after Roundup Ready soybeans was introduced into Argentina, glyphosate-resistant weeds began cropping up, too, causing growers to spray more toxic herbicides.[^63]
+<param ve-image
+url="https://live.staticflickr.com/7327/13948990077_a0aea9a8ec_3k.jpg"
+fit="contain"
+title="Roundup Herbicide"
+description="
 
 {paragraph 19}
 
