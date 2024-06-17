@@ -131,7 +131,7 @@ Soybean, progressing from resiliency to versatility, chose humans; today, humans
 url="https://live.staticflickr.com/7327/13948990077_a0aea9a8ec_3k.jpg"
 fit="contain"
 title="Roundup Herbicide"
-description="
+description="by JeepersMedia is licensed under CC BY 2.0.">
 
 {paragraph 19}
 
