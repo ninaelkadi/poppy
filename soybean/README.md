@@ -18,10 +18,7 @@ The average consumer may not realize that soy is found in almost everything they
 {paragraph 1}
 
 Over the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind the acceleration of Amazonian deforestation.[^4] However, the story is not so simple, as soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. It is also one of the world’s most genetically modified (GM) crops—in the United States alone, over 90 percent of soybeans are GM.[^5] While this has allowed soybeans to be grown in a variety of conditions while resisting weeds and pests, those same attributes make the plant dangerous to grow due to the toxicity of fertilizers and the ever-changing resistance of the plant to new chemicals.[^6]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Deforestation_in_the_Amazon_%2846200453954%29.jpg"
-       title="Satellite Image of Cultivated Land in the Amazon"
-       description="Sentinel Hub, CC BY 2.0 [https://creativecommons.org/licenses/by/2.0], via Wikimedia Commons"
-       fit="contan">
+
 {paragraph 2}
 
 ## Humble Origins
@@ -94,8 +91,10 @@ Soybeans also gained certain notoriety during the uncertainty of World War II. W
 ## The Changing Amazon
 
 Sojización is the term used to describe the change in the Amazonian landscape—its evolution from rainforest to soybean fields.[^37]  This process began in what is called the “Second Great Acceleration,” a period that began around 1950, when “the [center] of gravity of soy’s trade network shifted from the Global North to the Global South.”[^38] It comprised mass-scale interventions marking “the shift of worldwide resource extraction, exchange, processing, usage and deposition on an unprecedented scale from the mid-twentieth century onwards.”[^39] A hallmark of this extractive approach in South America was sojización, since almost all soy produced in South America is exported to Asia or Europe. As a result, the natural resources of the region, especially its rainforest, are being depleted for consumption in countries abroad, creating ecosystems known as “ghost acres.”[^40]
-
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Deforestation_in_the_Amazon_%2846200453954%29.jpg"
+       title="Satellite Image of Cultivated Land in the Amazon"
+       description="Sentinel Hub, CC BY 2.0 [https://creativecommons.org/licenses/by/2.0], via Wikimedia Commons"
+       fit="contan">
 {paragraph 13}
 
 The unending demand for soybeans is due to their continued use as a high-protein animal feed. In 1995, the Chinese government began prioritizing the cultivation of human-food crops, such as rice and wheat, due to the increase in its population. As a result, China reduced the production of animal-feed crops such as soy, turning to other countries, including Brazil, for import.[^41] In 2018, the annual cost of soybeans exported from Brazil to China was 27 million USD, while “the associated deforestation risk amounted to 61,500 hectares, from which 34,600 hectares resulted from the Brazilian-Chinese trade. Since forests serve as a sink of greenhouse gases, Brazilian deforestation caused 10.0 metric tons of emissions of carbon dioxide into the atmosphere, of which the Chinese share was 5.6 metric tons.”[^42]
