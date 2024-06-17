@@ -100,15 +100,18 @@ Sojización is the term used to describe the change in the Amazonian landscape�
 The unending demand for soybeans is due to their continued use as a high-protein animal feed. In 1995, the Chinese government began prioritizing the cultivation of human-food crops, such as rice and wheat, due to the increase in its population. As a result, China reduced the production of animal-feed crops such as soy, turning to other countries, including Brazil, for import.[^41] In 2018, the annual cost of soybeans exported from Brazil to China was 27 million USD, while “the associated deforestation risk amounted to 61,500 hectares, from which 34,600 hectares resulted from the Brazilian-Chinese trade. Since forests serve as a sink of greenhouse gases, Brazilian deforestation caused 10.0 metric tons of emissions of carbon dioxide into the atmosphere, of which the Chinese share was 5.6 metric tons.”[^42]
 <param ve-image
 			 url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Annual_CO2_emissions_from_deforestation_by_product%2C_Brazil.png"
-			 title="Annual CO2 emissions from deforestation by product, Brazil."
-			 description="Our world in data, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
-			 fit="contain">
+	title="Annual CO2 emissions from deforestation by product, Brazil."
+	description="Our world in data, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+	fit="contain">
 {paragraph 14}
 
 Such a massive increase in scale of soybean production aligns with the introduction of GM soybeans. A salient example is Monsanto’s “Roundup Ready” soybeans, which were approved in Argentina and the United States in 1996 through the “principle of substantial equivalence,” claiming that “overall GM soybeans are similar to their non-GM equivalent, and thus represent no risk to the public health of the environment.”[^43] Since being launched in Argentina, Roundup Ready soybeans have had “practically a 100 per cent adoption rate.”[^44]  By the 2000s, GM soybeans changed the Argentinian landscape, covering around 50 percent “of the country’s arable land.”[^45] These GM plants are resistant to glyphosate, an herbicide used to kill weeds, allowing growers to spray the herbicide Roundup without killing the plant. In 2012, 80 Olympic-sized swimming pools worth of glyphosate—53 million gallons—"were sprayed across Argentina.”[^46]
 <param ve-iframe
-       src="https://ourworldindata.org/grapher/soybean-production?tab=map">
-fit="contain">
+	src="https://www.ers.usda.gov/scripts/widget_charts_of_note.js?key=ga2jsXxoXht0G5reBa57ow3iExKPNBDa37bYyCdM&cId=78187"
+	fit="contain">
+ <param ve-iframe
+       src="https://ourworldindata.org/grapher/soybean-production?tab=map"
+	fit="contain">
 {paragraph 15}
 
 The GM explosion in Argentina has resulted in large agribusinesses taking land from Indigenous people, stripping them of their homes, and often imperiling their health.[^47] One a windy day in February 2003, farmers in Monte Azul woke up to the brutal realization that overnight, neighboring large-scale growers had sprayed their glyphosate-resistant soybeans with the herbicide 2,4D, and that glyphosate drifted over and killed their crop.[^48] The farmers organized and hired a specialist to prove that their plants were killed by the herbicide. After analyzing the physiological effects that the spraying had on the farmers and the plants, the specialist advised the farmers to destroy their crops due to their toxicity, effectively decimating their harvest.[^49] For the next few months, farmers demonstrated against the fumigation of soybean fields, blocking roads and slitting airplane tires with knives.[^50] Eventually, a judge ordered that large-scale growers stop fumigating soybean fields. The ruling, however, came too late, as many of the local farmers had stopped investing in staple crops, terrified that their crops “could be destroyed by another agrochemical drift.”[^51] The “principle of substantial equivalence” was not as “equivalent” as it may have initially seemed. GM soybeans require toxic herbicides, which kill non-GM crops, and, over time, have detrimental effects on human health.[^52] Glyphosate has been linked to cancers, non-Hodgkin lymphoma, and other serious health issues.[^53] The phrase “deforestation in the Amazon” means so much more than just cutting down the rainforest; in the case of soy, it signifies the erasure of lives and livelihoods.
@@ -131,7 +134,7 @@ Soybean, progressing from resiliency to versatility, chose humans; today, humans
 url="https://live.staticflickr.com/7327/13948990077_a0aea9a8ec_3k.jpg"
 fit="contain"
 title="Roundup Herbicide"
-description="by JeepersMedia is licensed under CC BY 2.0.">
+description="Photo via JeepersMedia and licensed under CC BY 2.0.">
 
 {paragraph 19}
 
