@@ -133,6 +133,8 @@ In April 2006, <span eid="Q81307">Greenpeace</span> released a report stating th
 {paragraph 17}
 
 In theory, the moratorium seemed to work, as there was evidence that the rate of deforestation for soybean production in the Amazon was slowing. In practice, however, soybean growers simply shifted where they planted: to cattle pastures. Cattle farmers pushed their operations deeper into the Amazon rainforest, and growers planted soybeans in the abandoned pastures. Paradoxically, it was cattle farmers, not soybean growers, who were accused of perpetuating deforestation.[^58] Indeed, the soy moratorium applied to soy, not cattle, effectively creating a perfect loophole.[^59] Some scholars argue that the soy moratorium had almost no effect on deforestation.[^60]
+<param ve-iframe
+       src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 {paragraph 18}
 
 ## The Fragility of the "Soyacene"
