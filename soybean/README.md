@@ -115,7 +115,7 @@ The unending demand for soybeans is due to their continued use as a high-protein
 
 Such a massive increase in scale of soybean production aligns with the introduction of GM soybeans. A salient example is Bayer-Monsanto’s <span eid="Q9322984">Roundup Ready</span> soybeans, which were approved in Argentina and the United States in 1996 on the merit of the “principle of substantial equivalence,” claiming that “overall GM soybeans are similar to their non-GM equivalent, and thus represent no risk to the public health of the environment.”[^43] Since being launched in Argentina, Roundup Ready soybeans have had “practically a 100 per cent adoption rate.”[^44]  By the 2000s, GM soybeans changed the Argentinian landscape, covering around 50 percent “of the country’s <span eid="Q843920">arable land</span>.”[^45] These GM plants are resistant to <span eid="Q407232">glyphosate</span>, an herbicide used to kill weeds, allowing growers to spray the herbicide Roundup without killing the plant. In 2012, 80 Olympic-sized swimming pools worth of glyphosate—53 million gallons—"were sprayed across Argentina.”[^46]
 <param ve-knightlab-timeline
-	source="1Y-PnP29dMVReXsWgzIH_FONvVWvMG5LeXqpyrXAnhZA/edit?gid=0#gid=0"
+	source="1Y-PnP29dMVReXsWgzIH_FONvVWvMG5LeXqpyrXAnhZA"
 	timenav-position="bottom"
 	hash-bookmark="false”
 	initial-zoom="1"
