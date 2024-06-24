@@ -133,8 +133,8 @@ The GM explosion in Argentina has resulted in large agribusinesses taking land f
 ## The Era of the Soy Moratorium
 
 In April 2006, <span eid="Q81307">Greenpeace</span> released a report stating that U.S. corporations “were responsible for 60 percent of the financing of Brazilian soybean agriculture.”[^54] The report also detailed where soy from the Amazon ended up, including in animal feed for McDonalds’s chickens. McDonalds chicken nuggets, in other words, were produced from chickens fed with soybeans grown on deforested Amazonian land.[^55] McDonalds responded to the report by pledging to “stop selling chicken fed on soybeans grown in newly deforested areas of the Amazon.”[^56] The pressure from the Greenpeace report resulted in a “soy moratorium,” in Brazil, signed two months after the report’s release. The <span eid="Q730469">moratorium</span> stipulated that, from that point on, companies would no longer buy soy from newly deforested areas.[^57]
-<param-ve iframe
-					src="https://www.greenpeace.org/usa/wp-content/uploads/legacy/Global/usa/planet3/PDFs/eating-up-the-amazon-executiv.pdf">
+<param ve-iframe
+	src="https://www.greenpeace.org/usa/wp-content/uploads/legacy/Global/usa/planet3/PDFs/eating-up-the-amazon-executiv.pdf">
 {paragraph 17}
 
 In theory, the moratorium seemed to work, as there was evidence that the rate of deforestation for soybean production in the Amazon was slowing. In practice, however, soybean growers simply shifted where they planted: to cattle pastures. Cattle farmers pushed their operations deeper into the Amazon rainforest, and growers planted soybeans in the abandoned pastures. Paradoxically, it was cattle farmers, not soybean growers, who were accused of perpetuating deforestation.[^58] Indeed, the soy moratorium applied to soy, not cattle, effectively creating a perfect loophole.[^59] Some scholars argue that the soy moratorium had almost no effect on deforestation.[^60]
@@ -150,7 +150,6 @@ url="https://live.staticflickr.com/7327/13948990077_a0aea9a8ec_3k.jpg"
 fit="contain"
 title="Roundup Herbicide"
 description="Photo via JeepersMedia and licensed under CC BY 2.0.">
-
 {paragraph 19}
 
 When certain crops are grown as a monoculture on a large scale, as in the case of soybeans, they lose nutritional value. This is due to the inverse yield nitrogen law that states “increased yields will be followed by a decrease in protein concentration.”[^64] This pattern creates a dangerous cycle where growers need to produce more crops to meet the same protein concentrations that traders expect.[^65]
